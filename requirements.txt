@@ -1,0 +1,6 @@
+openai==0.28.0
+python-dotenv
+fastapi==0.95.1
+uvicorn==0.20.0
+python-multipart
+streamlit==1.28.2
